@@ -1,0 +1,7 @@
+myWorkoutPro/node_modules/
+backendWorkoutPro/node_modules/
+myWorkoutPro/.yarn/cache/
+myWorkoutPro/android/
+myWorkoutPro/ios/Pods
+myWorkoutPro/vendor/
+myWorkoutPro/ios/
