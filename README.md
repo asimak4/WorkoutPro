@@ -55,5 +55,5 @@ cd myworkoutpro
 
 ## Screenshots
 
-![alt text](https://github.com/[asimak4]/[WorkoutPro]/blob/[main]/simulator_screenshot_12756ACC-74C8-4829-ABE1-43A471DAEC93.png?raw=true)
+![alt text](https://github.com/asimak4/WorkoutPro/blob/[main]/simulator_screenshot_12756ACC-74C8-4829-ABE1-43A471DAEC93.png?raw=true)
 
