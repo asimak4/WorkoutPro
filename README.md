@@ -50,3 +50,10 @@ This repository contains both the backend and frontend code for **MyWorkoutPro**
 ```bash
 git clone https://github.com/asimak4/myworkoutpro.git
 cd myworkoutpro
+
+```
+
+## Screenshots
+
+![alt text](https://github.com/[asimak4]/[WorkoutPro]/blob/[main]/simulator_screenshot_12756ACC-74C8-4829-ABE1-43A471DAEC93.png?raw=true)
+
