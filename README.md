@@ -53,15 +53,11 @@ cd myworkoutpro
 
 ```
 
-## Screenshots
 
-![alt text](https://github.com/asimak4/WorkoutPro/blob/main/simulator_screenshot_12756ACC-74C8-4829-ABE1-43A471DAEC93.png?raw=true)
 
-![alt text](https://github.com/asimak4/WorkoutPro/blob/main/simulator_screenshot_22210C40-6101-4E8A-8B34-72FDB45BDAD2.png?raw=true)
 
-![alt text](https://github.com/asimak4/WorkoutPro/blob/main/simulator_screenshot_43BECF23-D680-4A48-9A1A-33AB6884B9BD.png?raw=true)
-
-![alt text](https://github.com/asimak4/WorkoutPro/blob/main/simulator_screenshot_DF373EBB-0B92-4CCA-91FC-2B680E58F198.png?raw=true)
+Screenshots
+<div style="display: flex; flex-direction: column; align-items: center;"> <img src="https://github.com/asimak4/WorkoutPro/blob/main/simulator_screenshot_12756ACC-74C8-4829-ABE1-43A471DAEC93.png?raw=true" alt="screenshot 1" style="width: 300px; height: auto; margin-bottom: 10px;"/> <img src="https://github.com/asimak4/WorkoutPro/blob/main/simulator_screenshot_22210C40-6101-4E8A-8B34-72FDB45BDAD2.png?raw=true" alt="screenshot 2" style="width: 300px; height: auto; margin-bottom: 10px;"/> <img src="https://github.com/asimak4/WorkoutPro/blob/main/simulator_screenshot_43BECF23-D680-4A48-9A1A-33AB6884B9BD.png?raw=true" alt="screenshot 3" style="width: 300px; height: auto; margin-bottom: 10px;"/> <img src="https://github.com/asimak4/WorkoutPro/blob/main/simulator_screenshot_DF373EBB-0B92-4CCA-91FC-2B680E58F198.png?raw=true" alt="screenshot 4" style="width: 300px; height: auto;"/> </div> 
 
 
 
