@@ -6,11 +6,8 @@ This repository contains both the backend and frontend code for **MyWorkoutPro**
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Features
 
@@ -41,8 +38,6 @@ This repository contains both the backend and frontend code for **MyWorkoutPro**
 
 - **DevOps**:
   - Docker for containerization
-
-## Setup and Installation
 
 ### Prerequisites
 
